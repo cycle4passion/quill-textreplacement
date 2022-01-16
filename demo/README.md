@@ -5,3 +5,5 @@ For Example
 `.brb` becomes `be right back` 
 
 [Codepen](https://codepen.io/c4p/pen/poWYgGp?editors=1001) live example
+
+Also ceheckout other examples [Awesome Quill](https://github.com/quilljs/awesome-quill)
